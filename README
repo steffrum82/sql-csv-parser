@@ -1,4 +1,5 @@
 App::SQL-CSV-Parser - SQL-Kommandos und -Abfragen auf CSV-Dateien anwenden
+Topics: csv sql database csv-parser
 
 Das CPAN-Modul DBI (DataBase Interface) ist Perls einheitliche
 Datenbankschnittstelle und mit dem Datenbank-Treiber DBD::CSV steht eine
